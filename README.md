@@ -1,6 +1,6 @@
 # <p align="center"> 👨‍💻Minicamp de Programação Básica👨‍💻 </p>
 
-## Minicamp ofertado pela XP-Educação como forma de realizar a capacitação e fornecer oportunidades de desenvolvimento para novos desenvolvedores com estudos rapidos e completos sobre os mais diversos temas.
+## Minicamp ofertado pela XP-Educação como forma de realizar a capacitação e fornecer oportunidades de desenvolvimento para novos desenvolvedores com estudos rapidos e completos sobre os mais diversos temas. Realização de (30 de Jan de 2023 – 13 de Fev de 2023).
 
 O Minicamp será composto por 2 (dois) módulos.
  Cada módulo apresentará os seguintes componentes:
@@ -89,8 +89,6 @@ Este módulo introduz os conceitos fundamentais de programação web, com foco e
 
 - Introdução ao Netlify Drop
 - Utilizando o Netlify Drop
-
-## Vai ser continuado  mais tarde a inclusão; 
 
 ## 📚 Duvidas: 
 para isso pode ser usado alguns link de materiais como o material da XP-Educação </p> 
