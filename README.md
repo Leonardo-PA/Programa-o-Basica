@@ -14,11 +14,10 @@ O Minicamp será composto por 2 (dois) módulos.
 ## <p align="center"> Modulo 1 </p>
 ###  ✏️Introdução a Logica de programação; 
 
-Estudo dos metodos de estruturas dos ARRAYS e os comportamentos das listas assim como elas funcionam, 
-
-O objetivo de um método construtor é construir objetos da classe. O construtor é um método especial que tem o mesmo nome da classe e garante a alocação de memória necessária para cada objeto da classe
+Este material apresenta uma introdução ao funcionamento de computadores e conceitos fundamentais de programação, utilizando JavaScript como linguagem principal. No início, exploramos os componentes básicos de um computador, como a CPU e a memória RAM, além de conceitos essenciais de programação. Em seguida, são abordadas ferramentas importantes para desenvolvimento, como o Google Chrome e o Visual Studio Code.
 
 ## Capítulo 1. Introdução
+
 - Introdução
 - Componentes de um computador
 - CPU e Memória RAM
@@ -26,10 +25,12 @@ O objetivo de um método construtor é construir objetos da classe. O construtor
 - Introdução ao JavaScript
 
 ## Capítulo 2. Explorando as ferramentas
+
 - Google Chrome
 - Visual Studio Code
 
 ## Capítulo 3. Variáveis, operadores e funções
+
 - Variáveis
 - Tipos de variáveis
 - Operadores
@@ -37,6 +38,7 @@ O objetivo de um método construtor é construir objetos da classe. O construtor
 - Exemplo prático: múltiplos de 3 e 5
 
 ## Capítulo 4. Estruturas de decisão e lógica booleana
+
 - Estruturas de decisão
 - Exemplo prático: calculadora
 - Exemplo prático: conversão de moedas
@@ -44,6 +46,7 @@ O objetivo de um método construtor é construir objetos da classe. O construtor
 - Exemplo prático: IMC
 
 ## Capítulo 5. Listas e estruturas de repetição
+
 - Listas
 - Estruturas de repetição
 - Exemplo prático: ordem inversa
@@ -51,21 +54,41 @@ O objetivo de um método construtor é construir objetos da classe. O construtor
 - Exemplo prático: adivinhação
 
 ###
-## <p align="center"> Modulo 1 </p>
-###  ✏️Introdução a Logica de programação; 
-- Plano de ensino
-- Material das aulas gravadas
-- Material complementar
-- Aula ao vivo
-- Gravação da aula ao vivo
+## <p align="center"> Modulo 2</p>
+###  ✏️Introdução à programação Web
 
-## Capítulo 1. Introdução
-- HTML
-- Módulo 2: Exercícios de fixação do capítulo 1
+Este módulo introduz os conceitos fundamentais de programação web, com foco em HTML, CSS e o uso do DOM. Iniciamos com um plano de ensino, materiais complementares e aulas ao vivo, oferecendo uma visão geral das ferramentas e técnicas usadas no desenvolvimento web.
 
-## Capítulo 2. Explorando as ferramentas
-- Google Chrome
-- Visual Studio Code
+## Capítulo 1 – HTML 
+
+- Introdução ao HTML
+- Ambiente 
+- Projeto Base
+- Conceitos de HTML
+- Criação de currículo com HTML - versão 1
+
+## Capítulo 2 – CSS 
+
+- Introdução ao CSS
+- Criação de currículo com HTML e CSS - versão 2
+
+## Capítulo 3 – DOM
+
+- Introdução ao Document Object Model (DOM)
+- Prática: app para Cálculo de IMC
+- Prática: App “Mega Sena v1”
+
+ 
+
+## Capítulo 4 – Introdução ao LocalStorage
+
+- Introdução ao LocalStorage
+- Prática: App “Mega Sena v2”
+
+## Capítulo 5 – Implantação de apps com o Netlify Drop
+
+- Introdução ao Netlify Drop
+- Utilizando o Netlify Drop
 
 ## Vai ser continuado  mais tarde a inclusão; 
 
